@@ -1,0 +1,16 @@
+.idea
+/node_modules
+/public/build/*
+/public/h5/*
+/public/pc/*
+/public/beta/*
+app/public/build/*
+app/assets.json
+app/assets-h5.json
+app/h5_assets.json
+npm-debug.log
+stats.json
+yarn-error.log
+logs/*
+run/*
+config/config.local.js
